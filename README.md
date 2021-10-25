@@ -1,6 +1,6 @@
 # Push_swap
 [![Intro](https://img.shields.io/badge/Cursus-Push_swap-success?style=for-the-badge&logo=42)](https://github.com/MashkaCoder/push_swap.git)<br>
-The purpose of this project sort data on a stack, with a limited set of instructions, using
+The purpose of this project is sorting data on a stack, with a limited set of instructions, using
 the lowest possible number of actions. <br>
 ## Cloning <br>
 ```
@@ -38,7 +38,7 @@ You can enter a random number of positive or negative numbers without any duplic
  - `rrb` reverse rotate b - shift down all elements of stack a by 1. The last element becomes the first one.
  - `rrr` rra and rrb at the same time.
 
-if you want to see a set of sorted numbers, then first in the `push_swap.h` file add the `stdio.h` library to use `printf`
+If you want to see a set of sorted numbers, then first in the `push_swap.h` file add the `stdio.h` library to use `printf` function
  
 ```
 #include <stdio.h>
